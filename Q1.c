@@ -22,6 +22,6 @@ int main ()
 /* input oranges
     if(oranges == 12)
         return you have 1 dozens
-    else 
+    else :
         return you dont have enough oranges to make in dozens
 */
